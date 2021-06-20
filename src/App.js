@@ -3,7 +3,7 @@ import "./style/styleHomePage.css";
 import "./style/styleListPage.css";
 import HomePage from './HomePage.js';
 import ListPage from './ListPage.js';
-import {HashRouter as Router, Switch, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 
 function App(){
